@@ -1,3 +1,6 @@
 
 .dart_tool/
 bin/
+
+.DS_Store
+/pic_sketch_asserts.json
